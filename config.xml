@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>SavePresta</name>
+	<displayName><![CDATA[SavePresta]]></displayName>
+	<version><![CDATA[1.0.0]]></version>
+	<description><![CDATA[SavePresta est un module qui permet d'effectuer une sauvegarde complète (fichiers + bdd) du site sur lequel le module est installé.]]></description>
+	<author><![CDATA[Altayeb Rabeh and Chloé Pradeilles]]></author>
+	<tab><![CDATA[administration]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+</module>
